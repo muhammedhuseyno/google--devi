@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/*logo start*/
+.logo img{
+    display: block;
+    margin: 18px auto 0;
+}
+.cards center{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #D3D3D3;
+}
+.cards{
+    width: 1000px;
+    margin: 0 auto;
+    
+}
+.google-search h4{
+    text-align: center;
+}
+.google-search .G-Search{
+    margin: 0 auto;
+}
+
+
+.cards1> .card1{
+    text-align: center;
+    width: 33.33%;
+    float: left;
+    margin-top: 1%;
+    background-color: #338FFF;
+}
+.cards1> .card2{
+    text-align: center;
+    width: 29.33%;
+    float: left;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 1%;
+    background-color: #338FFF;
+}
+.cards1> .card3{
+    text-align: center;
+    width: 33.33%;
+    float: left;
+    margin-top: 1%;
+    background-color: #338FFF;
+}
+.clear{
+    clear: both;
+}
+.clear> h5{
+    text-align: center;
+    padding-top: 10px;
+}
